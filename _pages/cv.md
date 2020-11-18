@@ -41,6 +41,13 @@ Skills
   * ArcGIS
 * BI Tools
   * Tableau
+
+Certifications
+======
+* Tableau Desktop Specialist
+* Johns Hopkins COVID-19 Contact Tracing
+* Google Analytics
+* TOCFL III (Chinese Language Proficiency)
  
 Service and leadership
 ======
