@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<embed src="https://github.com/newing21/newing21.github.io/blob/master/files/Resume%20-%20Nathan%20Ewing.pdf />
 
 Education
 ======
