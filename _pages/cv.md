@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.B.A in Economics, University of Iowa, 2016
+* B.A. in Chinese, University of Iowa, 2016
+* Certificate in Chinese, ICLP - National Taiwan University, 2017
+* M.S. in Business Analytics, University of Iowa, 2020 (expected)
+
 
 Work experience
 ======
