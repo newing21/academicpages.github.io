@@ -11,23 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.B.A in Economics, University of Iowa, 2016
-* B.A. in Chinese, University of Iowa, 2016
-* Certificate in Chinese, National Taiwan University, 2017
 * M.S. in Business Analytics, University of Iowa, 2020 (expected)
-
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Certificate in Chinese, National Taiwan University, 2017
+* B.A. in Chinese, University of Iowa, 2016
+* B.B.A in Economics, University of Iowa, 2016
   
 Skills
 ======
