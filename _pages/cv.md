@@ -13,7 +13,7 @@ Education
 ======
 * B.B.A in Economics, University of Iowa, 2016
 * B.A. in Chinese, University of Iowa, 2016
-* Certificate in Chinese, ICLP - National Taiwan University, 2017
+* Certificate in Chinese, National Taiwan University, 2017
 * M.S. in Business Analytics, University of Iowa, 2020 (expected)
 
 
