@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Writing"
+title: "Writing Samples"
 permalink: /publications/
 author_profile: true
 ---
 
-# Writing Samples
+
 
 
 
