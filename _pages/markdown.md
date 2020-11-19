@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /extra/
 title: "Extra"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ### Languages
-* Mandarin Chinese (TOCFL III, Working Proficiency)
-* Vietnamese (Basic)
+* Chinese Presentation
+* Chinese Writing Sample
 
-### Activities
-* Hiking, Biking, Soccer, Basketball.
+### Samples
+* Hiking Photos
