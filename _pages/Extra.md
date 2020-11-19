@@ -1,6 +1,6 @@
 ### Languages
-* Mandarin Chinese (TOCFL III, Working Proficiency)
-* Vietnamese (Basic)
+* Chinese Presentation
+* Chinese Writing Sample
 
 ### Activities
-* Hiking, Biking, Soccer, Basketball
+* Hiking Photos
