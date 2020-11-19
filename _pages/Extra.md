@@ -12,7 +12,8 @@ author_profile: true
 
 ---
 
-excerpt: "An understanding on China's attempt to shape the global narrative <br/><img src='/images/china.jpg'>"
+<br/><img src='/images/china.jpg'>
+"Photo taken in Wuzhen, China"  
 
 ---
 
