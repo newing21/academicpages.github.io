@@ -20,12 +20,14 @@ Skills
   * Excel (VBA, Pivot Tables, VLOOKUP)
   * Word
   * PowerPoint
-* Alogrithms:
+* Tools:
   * Python
   * R
+  * SQL
   * ArcGIS
 * BI Tools
   * Tableau
+  * Power BI (Basic)
 
 Certifications
 ======
