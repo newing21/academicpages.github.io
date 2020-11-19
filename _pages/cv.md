@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-<embed src="https://newing21.github.io/files/Nathan_Ewing_Resume2020.pdf" type="application/pdf" />
-
 Education
 ======
 * M.S. in Business Analytics, University of Iowa, 2020 (expected)
@@ -41,3 +38,6 @@ Service and leadership
 ======
 * Girls Who Code
 * United Way of Johnson County
+
+
+<embed src="https://newing21.github.io/files/Nathan_Ewing_Resume2020.pdf" type="application/pdf" />
