@@ -9,7 +9,8 @@ redirect_from:
 
 ### Languages
 * [Chinese Presentation](https://www.youtube.com/watch?v=v4SGkCretdk#action=share&ab_channel=e-paperNTU-ICLP)
-* [Chinese Writing Sample](表情达意的工具.docx)
+* [Chinese Writing Sample 1](http://140.112.185.137/epaper/index.php?id=2280)
+* [Chinese Writing Sample 2](达意的工具.docx)
 
 表情达意的工具
  
