@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Writing"
+title: "Chinese"
 author_profile: true
 redirect_from: 
   - /md/
