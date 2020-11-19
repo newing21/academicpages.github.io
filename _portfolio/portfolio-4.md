@@ -9,8 +9,8 @@ This post uses Natural Language Processing (NLP) techniques and tweet and accoun
 ---
 ### Photos
 
-"Furniture Sales Dashbaord Example"  
-<br/><img src='/images/Tableau Dashboard Example.jpg'>
+"Furniture Sales Dashbaord Example 
+<br/><img src='/images/Tableau Dashboard Example.jpg'>"
 
 
 ---
