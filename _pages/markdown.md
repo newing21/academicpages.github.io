@@ -10,6 +10,7 @@ redirect_from:
 ### Languages
 * [Chinese Presentation](https://www.youtube.com/watch?v=v4SGkCretdk#action=share&ab_channel=e-paperNTU-ICLP)
 * [Chinese Writing Sample](表情达意的工具.docx)
+
 表情达意的工具
  
 我们都知道语言和文字都是我们世界上最重要的联络工具。要是想表示自己的感觉，提出自己的意见来，我们都可以使用这些工具。縱使不能说语言或是文字哪一個是更重要的，至少我们可以承认这两者是各有千秋的。我们用的文字随着语言的发展而改善。反过来说，随着文字的改变，我们所用的语言也跟著改變。因此，我们得承认非常固定的语言和文字不如能演变很快的语言和文字来得更方便.
