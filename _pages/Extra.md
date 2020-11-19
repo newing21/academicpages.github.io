@@ -1,6 +1,2 @@
-### Languages
-* Chinese Presentation
-* Chinese Writing Sample
-
-### Activities
-* Hiking Photos
+### Activities and Interests
+* Hiking, Soccer, History, US-China Relations, Economic Development
