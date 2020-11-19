@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://github.com/newing21/newing21.github.io/blob/master/files/Nathan_Ewing_Resume2020.pdf" />
+
+<embed src="https://newing21.github.io/files/Nathan_Ewing_Resume2020.pdf" type="application/pdf" />
 
 Education
 ======
