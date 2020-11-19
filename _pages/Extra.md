@@ -11,6 +11,8 @@ author_profile: true
 * Hiking, Soccer, History, US-China Relations, Economic Development
 
 ---
+### Photos
+
 "Photo taken in Wuzhen, China"  
 <br/><img src='/images/china.jpg'>
 
