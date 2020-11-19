@@ -4,6 +4,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
+  - title: "Talks"
+    url: /talks/  
+    
   - title: "CV"
     url: /cv/
     
@@ -14,4 +17,4 @@ main:
     url: /markdown/
 
   - title: "Extra"
-    url: /talks/
+    url: /extra/
