@@ -9,7 +9,7 @@ redirect_from:
 
 ### Languages
 * Chinese Presentation
-* Chinese Writing Sample
+* [Chinese Writing Sample](表情达意的工具.docx)
 
 ### Samples
 * Hiking Photos
