@@ -12,5 +12,8 @@ main:
     
   - title: "Chinese"
     url: /markdown/
+    
+  - title: "Extra"
+    url: /talks/    
 
 
