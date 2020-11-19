@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Chinese State-backed Twitter Influence Operations"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/word cloud china.png'>"
+excerpt: "An understanding on China's attempt to shape the global narrative <br/><img src='/images/word cloud china.png'>"
 collection: portfolio
 ---
 
