@@ -16,5 +16,5 @@ The number of drug overdose deaths data is publicly available from Center for Di
 
 ![Screenshot (315)](https://user-images.githubusercontent.com/54378394/99928931-81774e00-2d08-11eb-80c8-4bdc13e6c0d9.png)
 
-#### Link to Report
+### Link to Report
 * [A Look at State Medicaid and Opioid Oversoses in the Midwest](https://github.com/newing21/newing21.github.io/blob/master/files/R_Project.pdf)
