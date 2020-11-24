@@ -11,3 +11,10 @@ themes throughout the articles, and word clouds are composed for additional topi
 ### Link
 
 * [Code](https://github.com/newing21/Python---Text-Analytics-)
+
+
+### Results
+
+![Screenshot (322)](https://user-images.githubusercontent.com/54378394/99929407-5ee63480-2d0a-11eb-93ee-e731b95217ac.png)
+
+![Screenshot (325)](https://user-images.githubusercontent.com/54378394/99929446-81784d80-2d0a-11eb-9b21-f21fab32c317.png)
