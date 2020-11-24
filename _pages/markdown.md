@@ -25,4 +25,11 @@ redirect_from:
 总之,字眼的变形跟社会和科技发展是相辅相成的.不过免得流于出一层联络隔膜,我们修订字眼以前必须千锤百炼.
 
 
+### ICLP Certificate of Merit
+
+* Best Performance Award - ICLP's Chinese Joke Contest
+
+![joke-certificate](https://user-images.githubusercontent.com/54378394/100050622-0fba0580-2dd7-11eb-8b5d-bb2e14e2e8c5.png)
+
+
 
