@@ -14,8 +14,6 @@ This post uses Natural Language Processing (NLP) techniques and tweet and accoun
 
 ---
 
-This post uses Natural Language Processing (NLP) techniques and tweet and account information of over 23,000 distinct accounts captured by Twitters Public Safety team to identify and examine the effectiveness of China’s Twitter-based influence operations.
-
 ### Overview
 
 As US-China relations continue to fracture, Beijing backed representatives are turning towards the Trump administration’s favorite tool – Twitter – to shape public opinion.   The sharp uptick in usage has signaled a coordinated effort to leverage western social media and promulgate state-views, often pertaining to sensitive domestic topics.  
