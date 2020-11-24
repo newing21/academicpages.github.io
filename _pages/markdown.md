@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Languages
-* [1st Year Chinese Presentation - 最神秘的地方](https://www.youtube.com/watch?v=v4SGkCretdk#action=share&ab_channel=e-paperNTU-ICLP) - ICLP Level 3 Presentation.  I finished the program as a level 5
+* [1st Year Chinese Presentation - 最神秘的地方](https://www.youtube.com/watch?v=v4SGkCretdk#action=share&ab_channel=e-paperNTU-ICLP)
 * [Article I wrote on ICLP's Chinese New Year Celebration - ICLP慶春節](http://140.112.185.137/epaper/index.php?id=2280)
 * [Reflection post I wrote on communication tools - 达意的工具](达意的工具.docx)
 
