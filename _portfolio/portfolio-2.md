@@ -8,5 +8,5 @@ Analysis contains over 200,000 thousand web articles scraped from the Washington
 Articles are classified based on sentiment using KNN, SVMs, Neural Netorks, and more.  Topic modeling is used to find general
 themes throughout the articles, and word clouds are composed for additional topic modeling insight.  
 
-
+---
 * [Code]https://github.com/newing21/Python---Text-Analytics-)
