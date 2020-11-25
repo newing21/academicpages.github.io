@@ -1,5 +1,5 @@
 ---
-title: "A Look at State Medicaid and Opioid Oversoses in the Midwest"
+title: "A Look at State Medicaid and Opioid Overdose in the Midwest"
 excerpt: "Analysis conducted in R Programming"
 collection: portfolio
 ---
