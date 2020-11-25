@@ -16,6 +16,7 @@ The number of drug overdose deaths data is publicly available from Center for Di
 
 ![Screenshot (330)_LI](https://user-images.githubusercontent.com/54378394/100277596-9d553c80-2f20-11eb-9edb-f871638b2d71.jpg)
 
+** Graph created in R, indicates amount of opioid related deaths per state
 
 ### Link to Report
-* [A Look at State Medicaid and Opioid Oversoses in the Midwest](https://github.com/newing21/newing21.github.io/blob/master/files/R_Project.pdf)
+* [A Look at State Medicaid and Opioid Oversose in the Midwest](https://github.com/newing21/newing21.github.io/blob/master/files/R_Project.pdf)
