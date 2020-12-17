@@ -29,12 +29,5 @@ The data contains over 1,000 entries, containing the Age, Location, Time Stamp, 
 ![pairplot](https://user-images.githubusercontent.com/54378394/102556950-57a31400-4087-11eb-91f6-988b78f2e153.png)
 
 
+![Screenshot (423)](https://user-images.githubusercontent.com/54378394/102557755-21669400-4089-11eb-9761-4682705e3a01.png)
 
-precision    recall  f1-score   support
-
-           0       0.85      0.96      0.90       146
-           1       0.96      0.84      0.89       154
-
-    accuracy                           0.90       300
-   macro avg       0.90      0.90      0.90       300
-weighted avg       0.90      0.90      0.90       300
