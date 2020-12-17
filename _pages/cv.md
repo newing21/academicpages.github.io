@@ -21,13 +21,24 @@ Skills
   * Word
   * PowerPoint
 * Tools:
-  * Python
+  * Python (numpy, pandas, spaCy, matplotlib, seaborn, plotly, scikit-learn)
   * R
   * SQL
   * ArcGIS
 * BI Tools
   * Tableau
   * Power BI (Basic)
+  
+ Methodologies
+======
+* Agile Methodologies
+  * Jira
+* Data Science
+  * Regression (Linear, Logistic)
+  * Classification (KNN, SVM, Random Forest)
+  * Clustering (K-Means, Hierarchical)
+  * Data Cleaning & Processing
+
 
 Certifications
 ======
