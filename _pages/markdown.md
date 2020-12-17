@@ -29,7 +29,6 @@ redirect_from:
 
 * Best Performance Award - ICLP's Chinese Joke Contest
 
-![joke-certificate](https://user-images.githubusercontent.com/54378394/100050760-645d8080-2dd7-11eb-8b23-8a66a749782d.png)
 
 
 
