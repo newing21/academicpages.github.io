@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis of Washington Post News Articles"
-excerpt: "Analyzing sentiment of early Coronavirus related news"
+excerpt: "Data Science - NLP Analysis - Analyzing sentiment of early Coronavirus related news"
 collection: portfolio
 ---
 
