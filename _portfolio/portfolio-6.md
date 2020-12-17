@@ -30,3 +30,11 @@ The data contains over 1,000 entries, containing the Age, Location, Time Stamp, 
 
 
 
+precision    recall  f1-score   support
+
+           0       0.85      0.96      0.90       146
+           1       0.96      0.84      0.89       154
+
+    accuracy                           0.90       300
+   macro avg       0.90      0.90      0.90       300
+weighted avg       0.90      0.90      0.90       300
