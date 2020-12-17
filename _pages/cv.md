@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Business Analytics, University of Iowa, 2020 (expected)
+* M.S. in Business Analytics, University of Iowa, 2020 
 * Certificate in Chinese, National Taiwan University, 2017
 * B.A. in Chinese, University of Iowa, 2016
 * B.B.A in Economics, University of Iowa, 2016
