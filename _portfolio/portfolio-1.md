@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Chinese State-backed Twitter Influence Operations"
-excerpt: "An understanding on China's attempt to shape the global narrative"
+excerpt: "Data Science - NLP Analysis - An understanding on China's attempt to shape the global narrative"
 collection: portfolio
 ---
 
