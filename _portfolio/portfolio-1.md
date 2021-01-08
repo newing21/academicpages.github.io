@@ -10,6 +10,7 @@ This post uses Natural Language Processing (NLP) techniques and tweet and accoun
 ### Link
 
 * [Code](https://github.com/newing21/Python---CCP_Tweet_Analysis)
+* [Analysis.docx](https://github.com/newing21/Python---CCP_Tweet_Analysis/files/5789141/Analysis.docx)
 
 
 ---
