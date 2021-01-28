@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathan Ewing"
   avatar           : "Screenshot (373).png"
-  bio              : "Analyst, storyteller, Iowan.  Interst in US-China relations, public service, and policy.  Avid Spurs Supporter. "
+  bio              : "Analyst, storyteller, Iowan.  Interst in US-China relations, tech development, EVs.  Avid Spurs Supporter. "
   location         : "Aurora, CO"
   employer         : "University of Iowa"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : ewing.w.nathan@gmail.com
+  email            : "ewing.w.nathan@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/nathan-ewing/
+  linkedin         : "https://www.linkedin.com/in/nathan-ewing/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
