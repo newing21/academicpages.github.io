@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Supervisory Compliance Analyst at the Federal Reserve with a wide range of experience in crypto/blockchain, finance, regulatory research, business development, global trade, and technology.
+Data and Compliance Analyst at the Federal Reserve with a wide range of experience in crypto, blockchain, finance, business development, global trade, and technology.
 
 Advised clients in the B2B market in Greater China, Japan, and US on overall strategy and operations, including multinational corporations and conglomerates. 
 
