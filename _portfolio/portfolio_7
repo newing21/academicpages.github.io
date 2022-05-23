@@ -1,19 +1,33 @@
-# MHCEP
+---
+title: "The Mental Health Community Engagement Program"
+excerpt: "Using NLP to identify issues facing mental health patients in the Denver Metro area"
+collection: portfolio
+---
 
-## What is MHCEP?
+In this project, I used NLP to analyze 60+ public testimonies to identify key topics and concerns voiced during community hearins on mental health.
 
-The Mental Health Community Engagement Program (MHCEP) is focused on improving the experience of both mentally ill patients and healthcare professionals when they encounter each other in the healthcare system.
+### Link
 
-Founded in 2020 by MD candidates at the Colorado University School of Medicine and community members, MHCEP generates data-driven approaches to solving issues plaguing the mental healthcare system and aims to revise and improve mental health policy, education, and clinical procedures at scale.
+* [Code](https://github.com/newing21/mhcep)
 
-## Mission
 
-Gaining an understanding of the challenges the mental health community faces and the barriers to seeking appropriate care, as defined by community members, will provide an invaluable learning experience to medical trainees.
+---
 
-## Partners
+### Overview
 
-2040 Partners for Health
-Well Being Trust
-National Alliance on Mental Illness
-Mental Health Colorado
-The Colorado School of Medicine
+This post uses Natural Language Processing to identify key themes and topics expressed in mental health related public testimonies.  Exploratory analysis, data visualizations, and topic analysis functions are included within the analysis.
+
+### Data
+
+The data contains over 60 unstructured testimonies provided by the Colorado Behavioral Health Task Force
+
+* [Code](https://cdhs.colorado.gov/press-release/colorado-behavioral-health-task-force-seeking-public-testimony)
+
+
+
+### Results
+
+![pairplot](https://user-images.githubusercontent.com/54378394/102556950-57a31400-4087-11eb-91f6-988b78f2e153.png)
+
+
+![Screenshot (423)](https://user-images.githubusercontent.com/54378394/102557755-21669400-4089-11eb-9761-4682705e3a01.png)
