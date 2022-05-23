@@ -1,26 +1,27 @@
----
-title: "Machine Learning - Predicting Response Rates to Advertising Campaign"
-excerpt: "Using Machine Learning to predict response rates to an online advertisement"
+--
+title: "The Mental Health Community Engagement Program"
+excerpt: "Using NLP to identify issues facing mental health patients in the Denver Metro area"
 collection: portfolio
 ---
 
-In this project, I created a model using Logistic Regression that predicts wheter a internet user will click on an advertisement.  The prediction is made based on features associated with the user, such as Age, Internet Usage, Location, and more.. 
-
+In this project, I used NLP to analyze 60+ public testimonies to identify key topics and concerns voiced during community hearins on mental health.
 
 ### Link
 
-* [Code](https://github.com/newing21/Advertising-Response-Classification)
+* [Code](https://github.com/newing21/mhcep)
 
 
 ---
 
 ### Overview
 
-This post uses Machine Learning to predict whether a user clicked on an advertisement.  Exploratory analysis, data visualizations, and test/train functions are included within the analysis.  Logistic regression was used to create the final model.  
+This post uses Natural Language Processing to identify key themes and topics expressed in mental health related public testimonies.  Exploratory analysis, data visualizations, and topic analysis functions are included within the analysis.
 
 ### Data
 
-The data contains over 1,000 entries, containing the Age, Location, Time Stamp, and Daily Time Spent on Site for each user.  
+The data contains over 60 unstructured testimonies provided by the Colorado Behavioral Health Task Force
+
+* [Code](https://cdhs.colorado.gov/press-release/colorado-behavioral-health-task-force-seeking-public-testimony)
 
 
 
@@ -30,3 +31,4 @@ The data contains over 1,000 entries, containing the Age, Location, Time Stamp, 
 
 
 ![Screenshot (423)](https://user-images.githubusercontent.com/54378394/102557755-21669400-4089-11eb-9761-4682705e3a01.png)
+
