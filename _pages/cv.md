@@ -46,11 +46,12 @@ Skills
 
 Certifications
 ======
-* Tableau Desktop Specialist
+* Google Cloud Digital Leader Training
 * Foundations of Project Management - Google
 * Google Adwords Display
-* Johns Hopkins COVID-19 Contact Tracing
 * Google Analytics
+* Johns Hopkins COVID-19 Contact Tracing
+* Tableau Desktop Specialist
 * TOCFL III (Chinese Language Proficiency)
  
 Service and leadership
