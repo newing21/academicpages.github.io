@@ -16,7 +16,11 @@ Education
   
 Skills
 ======
-* MS Office
+*  Product Management
+*  Digital Transformation
+*  Customer Experience
+*  Business Development
+*  MS Office
   * Excel (VBA, Pivot Tables, VLOOKUP)
   * Word
   * PowerPoint
@@ -43,6 +47,8 @@ Skills
 Certifications
 ======
 * Tableau Desktop Specialist
+* Foundations of Project Management - Google
+* Google Adwords Display
 * Johns Hopkins COVID-19 Contact Tracing
 * Google Analytics
 * TOCFL III (Chinese Language Proficiency)
