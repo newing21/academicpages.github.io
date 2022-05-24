@@ -28,7 +28,7 @@ The data contains over 60 unstructured testimonies provided by the Colorado Beha
 
 ### Results
 
-![pairplot](https://user-images.githubusercontent.com/54378394/102556950-57a31400-4087-11eb-91f6-988b78f2e153.png)
+![pairplot](https://github.com/newing21/mhcep/blob/main/MHCEP%20Word%20Network.png)
 
 
 ![Screenshot (423)](https://github.com/newing21/mhcep/blob/main/wordcloud.png)
