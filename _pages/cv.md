@@ -18,6 +18,7 @@ Skills
 ======
 *  Product Management
 *  Digital Transformation
+*  AI and Machine Learning
 *  Customer Experience
 *  Business Development
 *  MS Office
@@ -42,6 +43,7 @@ Skills
   * Classification (KNN, SVM, Random Forest)
   * Clustering (K-Means, Hierarchical)
   * Data Cleaning & Processing
+  * Natural Language Processing
 
 
 Certifications
