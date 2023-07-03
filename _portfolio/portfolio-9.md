@@ -1,5 +1,5 @@
 ---
-title: "BTS Verse Generator"
+title: "Google Chrome Extension - BTS Verse Generator"
 excerpt: "Using CSS and HTML to create a fun and inspiring Google Chrome Extension"
 collection: portfolio
 ---
