@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### How China Built The World's Most Electrifying EV Industry  - January 27th, 2021
-* [Through the Lens of the Community: Reviewing Public Testimonies of Colorado Mental Health Care to Improve Medical Education](https://www.annfammed.org/content/21/Supplement_1/4257)
 
 #### How China Built The World's Most Electrifying EV Industry  - January 27th, 2021
 * [The Making of China's EV Industry](https://bg539685.medium.com/the-making-of-chinas-ev-industry-75f8448c589d)
