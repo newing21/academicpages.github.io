@@ -16,7 +16,14 @@ author_profile: true
 "Photo taken in Wuzhen, China"  
 <br/><img src='/images/china.jpg'>
 
+"Photo taken in Colorado"  
+<br/><img src='/images/colorado.jpg'>
 
+"Photo taken in Philadelphia"  
+<br/><img src='/images/upenn.jpg'>
+
+"Photo taken in Oxford, England"  
+<br/><img src='/images/oxford.jpg'>
 ---
 
 
