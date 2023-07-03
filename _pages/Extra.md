@@ -23,7 +23,7 @@ author_profile: true
 <br/><img src='/images/upenn.jpg'>
 
 "Photo taken in Oxford, England"  
-<br/><img src='/images/oxford.jpg'>
+<br/><img src='/images/Oxford.jpg'>
 ---
 
 
